@@ -9,8 +9,6 @@ specialising in opportunities for **Palestinian students**.
 The agent combines reasoning and acting to help students find suitable universities, scholarships, and admission opportunities 
 around the world using real-time web search capabilities.
 
-This repository also serves as a lightweight, terminal-run version of my AI education advisory initiative, **Anyverse Palestine**.
-
 ## Project Structure
 - `main.py`: Contains the complete implementation including:
   - `Agent` class for managing conversations
