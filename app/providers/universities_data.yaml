@@ -1,0 +1,32 @@
+- id: birzeit-cs-ug
+  university: Birzeit University
+  country: Palestine
+  name: Computer Science (BSc)
+  degree_level: undergraduate
+  fields: ["Computer Science", "Software Engineering"]
+  tuition: "Local rate"
+  url: "https://www.birzeit.edu/"
+- id: an-najah-ee-ug
+  university: An-Najah National University
+  country: Palestine
+  name: Electrical Engineering (BSc)
+  degree_level: undergraduate
+  fields: ["Electrical Engineering"]
+  tuition: "Local rate"
+  url: "https://www.najah.edu/"
+- id: aou-it-ug
+  university: Arab Open University
+  country: Palestine
+  name: Information Technology (BSc)
+  degree_level: undergraduate
+  fields: ["Information Technology", "Computer Science"]
+  tuition: "Affordable"
+  url: "https://aou.edu.ps/"
+- id: polimi-cs-ms
+  university: Politecnico di Milano
+  country: Italy
+  name: Computer Science and Engineering (MSc)
+  degree_level: postgraduate
+  fields: ["Computer Science", "AI"]
+  tuition: "EU/Non-EU rates; scholarships available"
+  url: "https://www.polimi.it/"
