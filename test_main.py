@@ -4,7 +4,7 @@ diff --git a/tests/test_main.py b/tests/test_main.py
 @@ -0,0 +1,216 @@
 +#!/usr/bin/env python3
 +"""
-+Test script for the Palestine Student University Advisor main.py functionality
++Test script for the Palestine Students University Advisor main.py functionality
 +"""
 +
 +def test_ucas_points():
