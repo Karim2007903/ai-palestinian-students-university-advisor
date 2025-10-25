@@ -154,10 +154,7 @@ Future contributors are encouraged to:
 This repository intentionally uses **international English** throughout.
 
 ## Project Idea
-The **AI Palestine Student University Advisor** is an intelligent ReAct-based agent designed to help Palestinian students find suitable **universities and scholarships** around the world.  
-It analyses each student’s academic background and uses **real-time web search** to deliver accurate, up-to-date information about **admission requirements, rankings, and application deadlines**.  
-The goal is to provide an AI-powered virtual advisor that makes global education **accessible, free, and personalised** for Palestinian students.
-
+The AI Palestine Students University Advisor is an intelligent ReAct-based agent designed to help Palestinian students find suitable universities and scholarships worldwide. It analyses each student’s academic background and uses real-time web search to deliver accurate, up-to-date information about admission requirements, rankings, and application deadlines. The goal is to provide an AI-powered virtual advisor that makes global education accessible, free, and personalised for Palestinian students.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 ```
