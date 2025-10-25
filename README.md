@@ -1,4 +1,4 @@
-# AI Palestine Student University Advisor (ReAct Agent)
+# AI Palestine Students University Advisor (ReAct Agent)
 
 **Attribution:**
 This code is based on materials from the AI Agents in LangGraph course by DeepLearning.AI, 
