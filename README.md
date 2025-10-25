@@ -19,7 +19,7 @@ around the world using real-time web search capabilities.
 - `tests/`: Test cases directory
 
 ## Features
-- **ReAct pattern implementation** (Reasoning and Acting)
+- **ReAct-inspired workflow**: The agent sends queries to the model, interprets suggested actions, executes them, and then uses the results to provide an answer. The PAUSE/Thought/Action concept is followed in principle but handled programmatically.
 - **Real-time web search** using Tavily for live data on scholarships and universities
 - **GPA and UCAS equivalency calculations** for international admissions
 - **Scholarship and course recommendations** based on eligibility
